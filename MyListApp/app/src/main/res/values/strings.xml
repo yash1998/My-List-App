@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyListApp</string>
+
+    <!-- list strings -->
+    <string name="important_text">IMPORTANT</string>
+    <string name="urgent_text">URGENT</string>
+    <string name="not_urgent_text">NOT URGENT</string>
+    <string name="not_important_text">NOT IMPORTANT</string>
+
+    <!-- default category titles -->
+    <string name="focus_text">Focus</string>
+    <string name="goals_text">Goals</string>
+    <string name="fit_in_text">fit in</string>
+    <string name="backburner_text">backburner</string>
+
+    <!-- content description messages -->
+    <string name="add_task_button_message">Add task button</string>
+    <string name="to_go_text">to go</string>
+
+</resources>

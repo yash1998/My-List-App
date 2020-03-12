@@ -1,0 +1,28 @@
+user{
+userid: "",
+firstname: "",
+lastname:"",
+phone:"",
+pswd:"",
+star_categories=["", "", "", ""]
+}
+
+category{
+user_id:"",
+id:"",
+name:"",
+description:"",
+total_tasks:"",
+total_completed_tasks:"",
+total_due_tasks:""
+}
+
+task{
+category_id: "",
+user_id: "",
+id:"",
+title:"",
+description:"",
+due_date:"",
+status:"active, pending, not started, completed",
+}
